@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "http://shyamenterprises.ittechxpert.com/",
     "engines": {
-        "node": "12.x"
+        "node": "18.x"
     },
     "dependencies": {
         "@auth0/auth0-spa-js": "^1.11.0",
